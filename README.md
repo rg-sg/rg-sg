@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rajat Gupta
-- 👀 I’m working as a Lead Engineer in Studio Graphene
-- 🌱 I’m currently working on technologies - NodeJs etc
+- 👀 I’m working as a Technical Lead in Studio Graphene
 - 📫 How to reach me - rajat@studiographene.com | 9999507047
 
 <!---
